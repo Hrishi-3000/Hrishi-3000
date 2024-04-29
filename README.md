@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm HriShi-2003
+# Hi there! 👋 I'm Hrishi-2003
 
 Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. If you want to connect, feel free to reach out to me on Instagram.
 
