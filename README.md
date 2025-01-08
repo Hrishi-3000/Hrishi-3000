@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ## About Me
 - 💻 I'm deeply interested in Coding
 - 🌱 Currently, I'm focusing on learning New Technologies
-- 📫 You can reach me on [Instagram](https://www.instagram.com/Hrishikesh__2003/): @Hrishikesh__2003
-
+- 📫 You can reach me on [Hrishikesh__2003](https://www.instagram.com/Hrishikesh__2003/)
 ## Technologies I Love
 - Python
 - JavaScript
