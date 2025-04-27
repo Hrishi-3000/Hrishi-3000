@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm Hrishikesh<br>Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. If you want to connect, feel free to reach out to me on Instagram.<br><br>About Me<br>💻 I'm deeply interested in Coding<br>🌱 Currently, I'm focusing on learning New Technologies<br>📫 You can reach me on Hrishikesh__2003<br>I Love:-<br>Research | Deep Learning | CNN / RNN | Python | Artificial Intelligence / Machine Learning | Data Analysis / Data Visualization | OpenCV | JavaScript | HTML/CSS | React | Node.js | & Many More <br>
+Hi there! 👋 I'm Hrishikesh<br>
+INDIAN
+Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. If you want to connect, feel free to reach out to me on Instagram.<br><br>About Me<br>💻 I'm deeply interested in Coding<br>🌱 Currently, I'm focusing on learning New Technologies<br>📫 You can reach me on Hrishikesh__2003<br>I Love:-<br>Research | Deep Learning | CNN / RNN | Python | Artificial Intelligence / Machine Learning | Data Analysis / Data Visualization | OpenCV | JavaScript | HTML/CSS | React | Node.js | & Many More <br>
 
 ## 🌐 Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PTCjGjxa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hrishikesh__2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrishikesh-shahane-a0a19a258/)
